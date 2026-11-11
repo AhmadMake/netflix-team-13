@@ -1,0 +1,11 @@
+movie_id,title,genres,release_year
+101,Inception,Sci-Fi|Thriller,2010
+102,The Matrix,Sci-Fi|Action,1999
+103,Interstellar,Sci-Fi|Drama,2014
+104,Avatar,Action|Adventure,2009
+105,Titanic,Romance|Drama,1997
+106,The Dark Knight,Action|Crime,2008
+107,Toy Story,Animation|Comedy,1995
+108,The Lion King,Animation|Drama,1994
+109,Forrest Gump,Drama|Romance,1994
+110,The Godfather,Crime|Drama,1972
